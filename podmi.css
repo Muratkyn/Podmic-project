@@ -1,0 +1,177 @@
+
+/* This is attributed to first section */
+
+#section-first{
+    background-image: url(https://images.unsplash.com/photo-1485579149621-3123dd979885?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80);
+    background-size: cover;
+    height: 900px;
+    
+}
+.container-top{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.navbar-brand{
+    font-family:'Trebuchet MS';
+    margin-left: 5%;
+    padding-bottom: 50px;
+    font-size: 40px;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: solid #8f8f8f;
+
+}
+
+.nav-item{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    margin: 10% 1% 10% 1%;
+    font-weight: 800;
+}
+
+
+.header{
+    font-size: 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    padding-right: 60%;
+    font-style: normal;
+    margin-top: 30%;
+    font-weight: 900;
+    text-shadow: 2px 2px 4px #000000;
+    line-height: 1.20;
+}
+
+/* This is attributed to second section */
+
+#section-second{
+    margin-top: 15%;
+    background-color: #fff;
+    text-align: center;
+
+}
+
+.btn{
+    margin: 10% 4% 10% 4%;
+}
+
+.text-header{
+    font-weight: 800;
+}
+.text-paragraph{
+    font-family: verdana;
+    color: #8f8f8f;
+    padding: 2px 6px;
+
+}
+
+.feature.box{
+    padding: 4%;
+}
+
+.icon-image{
+    margin-bottom: 10px;
+}
+
+/* This is attributed to third section */
+
+.carousel-item{
+    height: 500px;
+}
+
+.section-third{
+    margin-top: 10%;
+}
+
+.testimonial-text{
+    font-size: 40px;
+    font-family: verdana;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 4% 20% 2% 20%;
+    text-align: center;
+}
+.testimonial-image{
+    width: 100px;
+    border: #8f8f8f;
+    border-radius: 50px;
+}
+
+.testimonial-em{
+    color: #fff;
+}
+
+/* this attributed to section four */
+
+.section-plan{
+    margin-top: 1%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px #8f8f8f;
+    
+
+}
+
+.plans-header{
+    font-family: verdana;
+    font-size: 60px;
+    font-weight: 900;
+}
+.plans-paragraph{
+    font-family: verdana;
+    font-weight: 800;
+    font-size: 30px;
+
+}
+.plans-paragraph-2{
+    font-family: verdana;
+    font-weight: 800;
+    font-size: 30px;
+    color: #79507C;
+}
+.card-deck{
+    margin-top: 5%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+
+/* this.. section-fifth */
+
+.section-fifth{
+    margin-top: 0%;
+    background-color:#79507C;
+    height: 350px;
+}
+
+.header-last{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-align: center;
+    margin: 5% 10% 1% 10%;
+    padding-top: 5%;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+.join-header{
+    margin-top: 1%;
+}
+
+.btn-new{
+
+    margin: 4% 2% 4% 2%;
+}
+
+.social-icon{
+    padding: 1% 1%;
+    margin-top: 1%;
+}
